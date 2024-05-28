@@ -20,7 +20,9 @@ function HeroSection() {
           journet today. Wherther you are a beginner or looking to refine your
           skills, join us to unlock your true potential.
         </p>
+        
         <div className="mt-4">
+
           <Link href={"/courses"}>
             <Button borderRadius="1.75rem"
              className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"

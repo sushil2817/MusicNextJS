@@ -5,6 +5,7 @@ import { HoverEffect } from "./ui/card-hover-effect";
 import { AuroraBackground } from "./ui/aurora-background";
 import { motion } from "framer-motion";
 
+
 const featuredWebinars = [
     {
         title: 'Understanding Music Theory',

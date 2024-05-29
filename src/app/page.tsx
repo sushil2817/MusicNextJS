@@ -6,7 +6,7 @@ import MusicSchoolTestimonials from "@/components/TestimonialCards";
 import UpcomingWebinars from "@/components/UpcomingWebinars";
 import { World1 } from "@/components/world";
 import Instructors from "@/components/Instructors";
-
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -18,6 +18,7 @@ export default function Home() {
          <UpcomingWebinars/>
          <World1></World1>
          <Instructors/>
+         <Footer></Footer>
 
     </main>
   );
